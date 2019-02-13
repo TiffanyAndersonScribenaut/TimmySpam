@@ -1,0 +1,13 @@
+How to use:
+
+In tokens.txt seperate each token by line.
+
+Example:
+
+NDY2NDM4ODQzMzYxNTI1NzYw.DicJ1Q.QjEswRQZDAkxQZ2quQzz5cxGJJQ
+NDY1OTg0NzAwMTIxMzUwMTY4.DiVd7g.RNiV8AAQk2Fwst26byTK_SUBMMo
+NDY1OTg1MzQ3NjM4MTMyNzQ2.DiVeiQ.-YBNlJc8cKWG86RRqR56fAFgHwg
+
+-----------------------------------------------------------
+
+Spammer developed by Norton.
